@@ -1,0 +1,71 @@
+3) 218460 
+
+4) 16947 
+
+5) 16801 
+
+8) 10522 
+
+9)
+wonder : ['wondered', 'wonderful', 'wonderfulness', 'wonderment', 'wonder', 'wonderfully', 'wonderments', 'wonders', 'wondering']
+continu : ['continuing', 'continuously', 'continual', 'continually', 'continuation', 'continue', 'continued', 'continues', 'continuous']
+observ : ['observations', 'observation', 'observe', 'observance', 'observed', 'observing', 'observers', 'observant', 'observable']
+respect : ['respectful', 'respectable', 'respectfully', 'respecting', 'respected', 'respect', 'respectively', 'respects', 'respective']
+comfort : ['comforters', 'comfortably', 'comforter', 'comfortableness', 'comforted', 'comfort', 'comforting', 'comforts', 'comfortable']
+commun : ['communication', 'communing', 'communicates', 'communicating', 'community', 'communicated', 'communities', 'communications']
+prepar : ['preparatives', 'preparative', 'preparation', 'prepares', 'preparing', 'prepared', 'preparations', 'prepare']
+gener : ['general', 'generous', 'generously', 'generic', 'generated', 'generally', 'generalizing', 'generations']
+fit : ['fitness', 'fits', 'fitful', 'fitfully', 'fitting', 'fittings', 'fitted', 'fit']
+question : ['questionings', 'questions', 'questionably', 'questioning', 'question', 'questioned', 'questionable']
+heed : ['heedfully', 'heedful', 'heeded', 'heeds', 'heeding', 'heed', 'heedfulness']
+assail : ['assails', 'assailant', 'assail', 'assailed', 'assailable', 'assailants', 'assailing']
+present : ['presentations', 'presenting', 'presentment', 'presently', 'presents', 'presented', 'present']
+voyag : ['voyagers', 'voyager', 'voyages', 'voyaging', 'voyagings', 'voyaged', 'voyage']
+spiral : ['spiral', 'spiralizing', 'spiralizes', 'spiralized', 'spirally', 'spiralizations', 'spiralling']
+concentr : ['concentrated', 'concentration', 'concentrate', 'concentrations', 'concentric', 'concentred', 'concentrating']
+harpoon : ['harpooneers', 'harpoon', 'harpooned', 'harpooner', 'harpooning', 'harpooneer', 'harpoons']
+fear : ['fears', 'fearful', 'feared', 'fear', 'fearfulness', 'fearfully', 'fearing']
+cheer : ['cheer', 'cheers', 'cheered', 'cheerfully', 'cheerful', 'cheering', 'cheerfulness']
+command : ['commander', 'command', 'commanding', 'commanded', 'commands', 'commandment', 'commanders']
+express : ['express', 'expressions', 'expressive', 'expressing', 'expression', 'expressed', 'expresses']
+pain : ['paine', 'pains', 'pained', 'painfully', 'painfulness', 'pain', 'painful']
+oper : ['operations', 'operate', 'operates', 'operating', 'operated', 'operation', 'operator']
+admir : ['admirably', 'admirers', 'admirer', 'admirable', 'admiral', 'admirals', 'admire']
+visit : ['visitations', 'visits', 'visit', 'visitants', 'visited', 'visiting', 'visitation']
+
+10) [3.0, 5.0, 2.0, 4.0, 5.0, 0.0, 1.0, 1.0, 3.0] 
+
+12)
+NN : 41023
+CC : 9168
+DT : 25957
+IN : 29300
+VBN : 5571
+JJ : 20481
+TO : 4625
+NNS : 11257
+VBP : 4648
+PRP : 9494
+RB : 14126
+VBD : 9064
+VBG : 5251
+PRP$ : 4876
+PDT : 554
+VB : 7173
+WP : 1031
+VBZ : 4617
+RP : 1232
+WDT : 1255
+RBR : 365
+MD : 2351
+JJS : 582
+WP$ : 87
+CD : 1690
+WRB : 1216
+EX : 555
+RBS : 203
+JJR : 587
+FW : 77
+NNP : 14
+UH : 29
+'' : 1
